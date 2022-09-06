@@ -1,4 +1,5 @@
 Hartanto Resolusi 2022
 -Create content 1x a week related to web programming
+-make a youtube channel
 -Learn Javascript
 -build a front end website
